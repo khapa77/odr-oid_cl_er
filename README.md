@@ -2,12 +2,13 @@ odr-oid_cl_er
 Odroid cluster mc1 (12)
 
 # Part 1. Инструменты
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+https://github.com/khapa77/odr-oid_cl_er/blob/images/mk.png
 
 __Определи и запиши в отчёт:__
 
 ### 1) MikroTik RB951G-2HnD
-![linux](../images/mk.png "MikroTik") 
+![linux](images/mk.png "MikroTik") 
 ### 2) Odroid HC2 (Home cloud)
 ![linux](../images/mk.png "Odroid HC2") 
 ### 3) Коммутатор HP PS1810-24G(J9834A)
