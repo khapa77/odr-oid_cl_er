@@ -20,7 +20,7 @@ __Определи и запиши в отчёт:__
 ### 1) MikroTik RB951G-2HnD
 ![linux](images/mk.png "MikroTik") 
 ### 2) Odroid HC2 (Home cloud)
-![linux](images/hc.png "Odroid HC2") 
+![linux](images/hc2.png "Odroid HC2") 
 ### 3) Коммутатор HP PS1810-24G(J9834A)
 ![linux](images/hp.png "PS1810-24G")
 ### 4) LRS-200-5 / MEAN WELL (х2)
